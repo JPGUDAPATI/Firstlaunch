@@ -2,7 +2,7 @@
     width:800px;
 }
 .aa{
-    background-image: url(banner.jpg);
+    background-image: url(images/banner.jpg);
     height:600px;
     background-repeat: no-repeat;
     width:100px;
@@ -116,7 +116,7 @@
 }
 
 .nn{
-    background-image: url(banner2.jpg);
+    background-image: url(images/banner2.jpg);
     height:350px;
     background-repeat: no-repeat;
     width:100px;
